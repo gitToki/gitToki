@@ -8,7 +8,7 @@ Hi there! I'm a **Security Engineer** , with a versatile background in software 
 - **C++ Software Engineer** 
 - **Software engineer**     (React and Nodejs)  
 
-Currently, I'm focused on becoming a highly skilled **Solidity Developer** to contribute meaningfully to the growing blockchain ecosystem. 
+Currently, I'm focused on becoming a highly skilled **Smart Contract Engineer** to contribute meaningfully to the growing blockchain ecosystem. 
 
 ## What Drives Me
 
