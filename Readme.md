@@ -4,9 +4,9 @@
 
 Hi there! I'm a **Security Engineer** , with a versatile background in software development and security. Over the years, I've worn multiple hats in the tech industry, including:
 
-- **DevSecOps Specialist** With a bit of SAST (VeraCode)
-- **C++ Software Engineer**  
-- **Software engineer** (React and Node)  
+- **DevSecOps Engineer**     With a bit of SAST (VeraCode on Java codebase)
+- **C++ Software Engineer** 
+- **Software engineer**     (React and Nodejs)  
 
 Currently, I'm focused on becoming a highly skilled **Solidity Developer** to contribute meaningfully to the growing blockchain ecosystem. 
 
