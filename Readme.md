@@ -18,5 +18,5 @@ My ultimate goal is to excel in Solidity development, I am passionate about expl
 
 I'm always open to new opportunities, collaborations, and discussions about security, blockchain, and development. Feel free to connect with me on:
 
-- [LinkedIn](#https://www.linkedin.com/in/yassine-ferhane/)  
-- [Twitter](#https://x.com/solidi_Toki)
+- [LinkedIn](https://www.linkedin.com/in/yassine-ferhane/)  
+- [Twitter](https://x.com/solidi_Toki)
